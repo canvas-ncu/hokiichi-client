@@ -4,3 +4,4 @@ public/js
 node_modules
 !.gitkeep
 npm-debug.log
+.idea
